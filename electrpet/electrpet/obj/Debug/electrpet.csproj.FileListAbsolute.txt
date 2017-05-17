@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\bin\Debug\electrpet.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\bin\Debug\electrpet.exe
+c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\bin\Debug\electrpet.pdb
+c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\obj\Debug\electrpet.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\obj\Debug\electrpet.exe
+c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\obj\Debug\electrpet.pdb
