@@ -11,8 +11,25 @@ namespace electrpet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Какого возраста вы хотите взять кошку?");            
+            bool ageset=false;
+            int age = 0;
+            while (!ageset)
+            {
+                try
+                {
+                    age = int.Parse(Console.ReadLine());
+                    ageset = true;
+                }
+                catch (FormatException)
+                {
 
-            Pets cat = new Pets();
+                    Console.WriteLine("Необходимо ввести цифры!");
+                }
+            }
+
+
+            Pets cat = new Pets(age);               
             Console.WriteLine("Выберите функцию");
             Console.WriteLine("1) Присвоить имя");
             Console.WriteLine("2) Кормить");

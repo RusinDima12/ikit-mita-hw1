@@ -8,10 +8,16 @@ namespace electrpet
 {
     public class Pets
     {
-        private readonly DateTime _bd = DateTime.Now;
+        
         private string _name;
         private int _heath=0;
-        public TimeSpan Age { get { return (DateTime.Now - _bd); } }
+        public int Age { get; }
+
+        public Pets(int Age)
+        {
+            this.Age = Age;
+        }
+
         public string Name
         {
             get { return _name; }

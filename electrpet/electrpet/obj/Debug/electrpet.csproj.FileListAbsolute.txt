@@ -4,3 +4,9 @@ c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\bin\Deb
 c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\obj\Debug\electrpet.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\obj\Debug\electrpet.exe
 c:\users\admin\documents\visual studio 2015\Projects\electrpet\electrpet\obj\Debug\electrpet.pdb
+C:\Users\admin\Documents\GitHub\ikit-mita-hw1\electrpet\electrpet\bin\Debug\electrpet.exe.config
+C:\Users\admin\Documents\GitHub\ikit-mita-hw1\electrpet\electrpet\obj\Debug\electrpet.exe
+C:\Users\admin\Documents\GitHub\ikit-mita-hw1\electrpet\electrpet\obj\Debug\electrpet.pdb
+C:\Users\admin\Documents\GitHub\ikit-mita-hw1\electrpet\electrpet\bin\Debug\electrpet.exe
+C:\Users\admin\Documents\GitHub\ikit-mita-hw1\electrpet\electrpet\bin\Debug\electrpet.pdb
+C:\Users\admin\Documents\GitHub\ikit-mita-hw1\electrpet\electrpet\obj\Debug\electrpet.csprojResolveAssemblyReference.cache
